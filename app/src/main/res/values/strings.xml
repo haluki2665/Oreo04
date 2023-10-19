@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Oreo04</string>
+    <string name="hello_message">Coupons by QR!</string>
+    <string name="strBtTransition">画面遷移</string>
+    <string name="messageInputYourID">Your ID</string>
+    <string name="strBtGenerate">Generate</string>
+    <string name="messageInputCouponID">Coupon ID</string>
+    <string name="Back">Back</string>
+</resources>
